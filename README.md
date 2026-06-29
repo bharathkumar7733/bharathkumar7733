@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building an **AI-powered WhatsApp booking agent** for offline SMBs
+- 🔭 Currently building an **AI-powered WhatsApp booking agent** for   offline SMBs
 - 🛠️ **ServiceNow & AI-Integrated Builder** — designing intelligent automation workflows
 - 🌱 Learning **System Design**, **Distributed Systems**, and **LLM Ops**
 - 💡 I enjoy applying AI to real-world problems — automating workflows that run on manual effort
