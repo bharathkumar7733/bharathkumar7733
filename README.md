@@ -21,6 +21,49 @@
 
 ---
 
+## 📁 Portfolio Projects
+
+Neatly categorized catalog of repositories:
+
+### 🌐 Full-Stack SaaS & Platforms
+| Project Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **TurfZone Booking** | [turfzone-booking-platform](https://github.com/bharathkumar7733/turfzone-booking-platform) | Online sports court & turf reservation dashboard, resembling BookMyShow. | React + TS, Node.js, Express, Drizzle ORM, Neon PostgreSQL |
+| **WhatsApp Booking Agent** | [whatsapp_bot_turfbooking](https://github.com/bharathkumar7733/whatsapp_bot_turfbooking) | AI chatbot that handles offline booking workflows over WhatsApp messages. | Node.js, WhatsApp Business Cloud APIs, LLM Integrations |
+| **TournamentOS** | [Building-TournamentOS-SaaS-Platform](https://github.com/bharathkumar7733/Building-TournamentOS-SaaS-Platform) | Enterprise SaaS dashboard managing complete sports tournament configurations. | Full Stack Node/React |
+| **RepTurf Settings** | [repturf](https://github.com/bharathkumar7733/repturf) | Developer configuration, Vite templates, and workspace runner files for TurfZone. | Vite, Replit, Vercel |
+
+### 🤖 AI, Machine Learning & Automation Utilities
+| Project Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Loan Approval prediction** | [loan_approval_prediction](https://github.com/bharathkumar7733/loan_approval_prediction) | Machine Learning model predicting loan qualification likelihood. | Python, Scikit-learn, Pandas, Streamlit |
+| **Movie Recommender** | [movie-recommender](https://github.com/bharathkumar7733/movie-recommender) | Web engine providing smart movie suggestions based on user profiles. | Python, Collaborative Filtering, React |
+| **SQL Query Generator** | [SQL-Query-Generator](https://github.com/bharathkumar7733/SQL-Query-Generator) | Converts plain English prompts into standard database SQL statements. | LLM Integrations, FastAPI, React |
+| **Daily News Bot** | [daily-news-telegram-bot](https://github.com/bharathkumar7733/daily-news-telegram-bot) | Scrapes and sends tech/AI/cricket news digests daily to Telegram at 7:30 AM. | Python, NewsAPI, Telegram Bot API, Schedule |
+| **Water SMS Reminder** | [water-reminder-sms](https://github.com/bharathkumar7733/water-reminder-sms) | Twilio integration that sends hydration notification messages on scheduling rules. | Python, Twilio APIs, Schedule, dotenv |
+
+### 📱 Mobile & Web Apps
+| Project Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Task Reminder App** | [task-reminder-app](https://github.com/bharathkumar7733/task-reminder-app) | Native mobile scheduler executing exact local push notifications with theme toggling. | Flutter, Dart, Local Notifications, SharedPreferences |
+| **LocalStorage Todo** | [localstorage-todo-app](https://github.com/bharathkumar7733/localstorage-todo-app) | Modern task list with progress indicators and success canvas confetti events. | HTML5, CSS3, JavaScript (ES6+), Confetti CDN |
+| **Spotify Music Player** | [music-player](https://github.com/bharathkumar7733/music-player) | Web music player replicating classic audio controls, progress trackbar, and volume sliders. | HTML5, CSS3, Vanilla JS |
+| **Smart Attendance** | [smart-attendance-app](https://github.com/bharathkumar7733/smart-attendance-app) | Professional app tracking attendance records. | Flutter / HTML Dashboard |
+
+### 🎮 Browser Games
+| Project Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Rock Paper Scissors** | [rock-paper-scissors-game](https://github.com/bharathkumar7733/rock-paper-scissors-game) | Browser game of Rock-Paper-Scissors featuring score tracking against AI. | HTML, CSS, JavaScript |
+| **Classic Tic Tac Toe** | [tic-tac-toe](https://github.com/bharathkumar7733/tic-tac-toe) | Two-player offline 3x3 grid game featuring turn management and reset actions. | HTML, CSS, JavaScript |
+
+### 📚 Practicing & Learning Roadmaps
+| Project Name | Repository | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **LeetCode Solutions** | [leetcode-solutions](https://github.com/bharathkumar7733/leetcode-solutions) | Solutions catalog for tracking data structures & algorithmic problem achievements. | Java, Python, C++, JavaScript |
+| **Backend Roadmap** | [backend-learning-roadmap](https://github.com/bharathkumar7733/backend-learning-roadmap) | Introductory console practice modules (e.g. terminal-based ticketing console app). | Python |
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -41,55 +84,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-llama--3.1-6d28d9?style=for-the-badge&logo=meta&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
-
-### 📚 Core Skills
-- AI Agents & LLM Integration
-- Machine Learning & Model Deployment
-- Full Stack Web Development
-- Data Structures & Algorithms (Java)
-- System Design & API Architecture
-
----
-
-## 🏆 Projects & Profiles
-
-<p align="center">
-  <a href="https://github.com/bharathkumar7733/whatsapp_bot_turfbooking">
-    <img src="https://img.shields.io/badge/-WhatsApp_AI_Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Smart_Complaint_System-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
-  </a>
-  <a href="https://sqlquerygenerator.vercel.app">
-    <img src="https://img.shields.io/badge/-SQL_Query_Generator-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://loan-approval-prediction-kappa.vercel.app">
-    <img src="https://img.shields.io/badge/-Loan_Approval_ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  </a>
-  <a href="https://movie-recommender-nine-green.vercel.app">
-    <img src="https://img.shields.io/badge/-Movie_Recommender-E50914?style=for-the-badge&logo=themoviedatabase&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/bharathkumar7733">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  
-</p>
-
-- **Smart Complaint Registration & Management System (ServiceNow)**: Built an end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.
-
 ---
 
 ## 📫 Connect With Me
@@ -101,14 +95,9 @@
   <a href="mailto:chappabharathkumar8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</p>
 
 <p align="center">
   💻 Happy Coding!
