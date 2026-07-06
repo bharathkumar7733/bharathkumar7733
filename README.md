@@ -94,14 +94,15 @@
   </a>
 </p>
 
-### 🛠️ Featured ServiceNow Projects
-
-- 🚀 **[Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)** ![](https://img.shields.io/badge/ServiceNow-Platform-00C853?style=flat-square)  
-  **An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security tasks using Flow Designer.**
-- 📚 **[Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)** ![](https://img.shields.io/badge/ServiceNow-Platform-7928CA?style=flat-square)  
-  **An automated university library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom reports.**
-- ⚖️ **Smart Complaint Registration & Management System** ![](https://img.shields.io/badge/ServiceNow-In_Progress-FF9800?style=flat-square) *(In Progress — Adding Soon)*  
-  **An end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.**
+> [!IMPORTANT]
+> ### 🛠️ Featured ServiceNow Projects
+>
+> - 🚀 **[Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)** ![](https://img.shields.io/badge/ServiceNow-Platform-00C853?style=flat-square)  
+>   **An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security tasks using Flow Designer.**
+> - 📚 **[Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)** ![](https://img.shields.io/badge/ServiceNow-Platform-7928CA?style=flat-square)  
+>   **An automated university library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom reports.**
+> - ⚖️ **Smart Complaint Registration & Management System** ![](https://img.shields.io/badge/ServiceNow-In_Progress-FF9800?style=flat-square) *(In Progress — Adding Soon)*  
+>   **An end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.**
 
 ---
 
