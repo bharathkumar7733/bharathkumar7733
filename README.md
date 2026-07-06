@@ -94,15 +94,14 @@
   </a>
 </p>
 
-### 🛠️ Featured Projects
+### 🛠️ Featured ServiceNow Projects
 
-- **🚀 [Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)**: An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security fulfillment tasks using Flow Designer.
-- **📚 [Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)**: An automated university library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom dashboard reports.
-- **⚖️ Smart Complaint Registration & Management System** *(In Progress — Adding Soon)*: Built an end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.
-- **💬 [WhatsApp AI Booking Agent](https://github.com/bharathkumar7733/whatsapp_bot_turfbooking)**: A Python backend integration featuring automated chat dialogues via WhatsApp to query sports turf schedules, book slots, and dispatch booking receipts using Twilio APIs.
-- **🔍 [AI SQL Query Generator](https://github.com/bharathkumar7733/SQL-Query-Generator)**: A generative AI-powered application that parses natural language English queries and translates them into structured SQL code using large language models.
-- **📈 [Loan Approval Prediction](https://github.com/bharathkumar7733/loan_approval_prediction)**: An end-to-end machine learning system that analyzes credit scores, applicants' assets, and details to predict loan approvals.
-- **🎬 [Movie Recommender System](https://github.com/bharathkumar7733/movie-recommender)**: A system that recommends movies using content filtering and collaborative filtering with Streamlit UI.
+- 🚀 **[Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)** ![](https://img.shields.io/badge/ServiceNow-Platform-00C853?style=flat-square)  
+  **An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security tasks using Flow Designer.**
+- 📚 **[Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)** ![](https://img.shields.io/badge/ServiceNow-Platform-7928CA?style=flat-square)  
+  **An automated university library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom reports.**
+- ⚖️ **Smart Complaint Registration & Management System** ![](https://img.shields.io/badge/ServiceNow-In_Progress-FF9800?style=flat-square) *(In Progress — Adding Soon)*  
+  **An end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.**
 
 ---
 
