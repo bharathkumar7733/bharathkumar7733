@@ -67,12 +67,19 @@
 ## 🏆 Projects & Profiles
 
 <p align="center">
+  <a href="https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow">
+    <img src="https://img.shields.io/badge/-Employee_Lifecycle_Management-00C853?style=for-the-badge&logo=servicenow&logoColor=white" />
+  </a>
+  <a href="https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--">
+    <img src="https://img.shields.io/badge/-Smart_Library_Workflow-7928CA?style=for-the-badge&logo=servicenow&logoColor=white" />
+  </a>
   <a href="https://github.com/bharathkumar7733/whatsapp_bot_turfbooking">
     <img src="https://img.shields.io/badge/-WhatsApp_AI_Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/-Smart_Complaint_System-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Smart_Complaint_System_(In_Progress)-FF9800?style=for-the-badge&logo=servicenow&logoColor=white" />
   </a>
+  <br/>
   <a href="https://sqlquerygenerator.vercel.app">
     <img src="https://img.shields.io/badge/-SQL_Query_Generator-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
@@ -85,10 +92,13 @@
   <a href="https://leetcode.com/u/bharathkumar7733">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  
 </p>
 
-- **Smart Complaint Registration & Management System (ServiceNow)**: Built an end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.
+### 🛠️ Featured ServiceNow Projects
+
+- **🚀 [Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)**: An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security fulfillment tasks using Flow Designer.
+- **📚 [Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)**: An automated library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom dashboard reports.
+- **⚖️ Smart Complaint Registration & Management System** *(In Progress — Adding Soon)*: Built an end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.
 
 ---
 
