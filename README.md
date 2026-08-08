@@ -67,8 +67,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumar7733&show_icons=true&theme=radial&hide_border=true" alt="Bharath's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar7733&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&theme=radial&hide_border=true" alt="Bharath's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharathkumar7733&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
