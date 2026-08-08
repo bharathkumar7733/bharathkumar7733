@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building an **AI-powered WhatsApp booking agent**   for   offline SMBs
+- 🔭 Currently building an **AI-powered WhatsApp booking agent** for offline SMBs
 - 🛠️ **ServiceNow & AI-Integrated Builder** — designing intelligent automation workflows
-- 🌱 Learning **System Design**, **Distributed Systems**, and **   LLM Ops **
+- 🌱 Learning **System Design**, **Distributed Systems**, and **LLM Ops**
 - 💡 I enjoy applying AI to real-world problems — automating workflows that run on manual effort
 - 🎯 Goal: Ship production-grade systems that solve real business problems
 
@@ -23,20 +23,20 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages.
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web Development.
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Databases.
+### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -59,8 +59,17 @@
 - AI Agents & LLM Integration
 - Machine Learning & Model Deployment
 - Full Stack Web Development
-- Data Structures & Algorithms (Java)
+- Data Structures & Algorithms (Python & Java)
 - System Design & API Architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumar7733&show_icons=true&theme=radial&hide_border=true" alt="Bharath's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar7733&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -115,7 +124,6 @@
   <a href="mailto:chappabharathkumar8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
 </p>
 
 ---
