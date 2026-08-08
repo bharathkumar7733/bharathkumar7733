@@ -68,7 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&border_color=1F2937" alt="Bharath's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharathkumar7733&layout=compact&bg_color=000000&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&border_color=1F2937" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=7C3AED&fire=7C3AED&currStreakNum=ffffff&stroke=1F2937" alt="GitHub Streak" />
 </p>
 
