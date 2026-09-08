@@ -22,7 +22,7 @@
 
 | 🏢 **ServiceNow Platform** | 🤖 **Applied AI & ML** | ⚙️ **Backend & APIs** |
 | :---: | :---: | :---: |
-| Workflow Automation & ITSM | LLM Agents & ML Pipelines | Scalable REST Microservices |
+| Enterprise Workflow Automation & ITSM | Generative AI Agents & ML Pipelines | Scalable REST Microservices & Daemons |
 | `Flow Designer` &bull; `Script Includes` &bull; `ACLs` | `Gemini API` &bull; `Scikit-Learn` &bull; `XGBoost` | `FastAPI` &bull; `Flask` &bull; `Twilio Webhooks` |
 
 </div>
@@ -42,111 +42,6 @@
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-Platform_Development-00C853?style=for-the-badge&logo=servicenow&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
 [![Python](https://img.shields.io/badge/Python-FastAPI_|_ML_Pipelines-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
 [![Gemini](https://img.shields.io/badge/Google_Gemini-GenAI_Integration-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
-
-</div>
-
----
-
-### 🚀 Featured Builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🤖 WhatsApp Turf Booking Bot</h3>
-        <p><strong>AI conversational agent automating sports turf reservations</strong></p>
-        <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" height="32" />
-        <p>Automated chat booking &bull; Conflict prevention &bull; Instant SMS receipts</p>
-        <a href="https://github.com/bharathkumar7733/whatsapp_bot_turfbooking">
-          <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🏢 Employee Lifecycle System</h3>
-        <p><strong>Enterprise onboarding & offboarding automation on ServiceNow</strong></p>
-        <img src="https://img.shields.io/badge/ServiceNow-Flow_Designer-00C853?style=flat-square&logo=servicenow&logoColor=white" />
-        <p>Dynamic manager approvals &bull; Parallel IT/HR/Security tasks &bull; Role ACLs</p>
-        <a href="https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow">
-          <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📚 Smart Library Workflow</h3>
-        <p><strong>University borrowing & circulation system on ServiceNow</strong></p>
-        <img src="https://img.shields.io/badge/ServiceNow-Client_Scripts-00E676?style=flat-square&logo=servicenow&logoColor=white" />
-        <p>Dynamic catalog checkout &bull; Automated overdue fine alerts &bull; ITSM forms</p>
-        <a href="https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--">
-          <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🧠 AI SQL Query Generator</h3>
-        <p><strong>Natural language English to production SQL compiler</strong></p>
-        <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="32" />
-        <p>Gemini LLM prompt engine &bull; Schema sanitization &bull; Live web UI</p>
-        <a href="https://sqlquerygenerator.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-00E676?style=for-the-badge&logoColor=black" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/bharathkumar7733/SQL-Query-Generator">
-          <img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📈 Loan Approval ML Classifier</h3>
-        <p><strong>Credit risk assessment pipeline predicting loan approvals</strong></p>
-        <img src="https://skillicons.dev/icons?i=python,scikitlearn&theme=dark" height="32" />
-        <p>XGBoost classifier &bull; Balanced applicant data &bull; Real-time inference</p>
-        <a href="https://loan-approval-prediction-kappa.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-00E676?style=for-the-badge&logoColor=black" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/bharathkumar7733/loan_approval_prediction">
-          <img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎬 Movie Recommender Engine</h3>
-        <p><strong>Vector similarity cinema recommendation web application</strong></p>
-        <img src="https://skillicons.dev/icons?i=python,streamlit&theme=dark" height="32" />
-        <p>Cosine distance vector ranking &bull; Interactive TMDB poster stream</p>
-        <a href="https://movie-recommender-nine-green.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-00E676?style=for-the-badge&logoColor=black" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/bharathkumar7733/movie-recommender">
-          <img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🐍 Contribution Activity & Snake Game
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharathkumar7733/bharathkumar7733/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bharathkumar7733/bharathkumar7733/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/bharathkumar7733/bharathkumar7733/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
@@ -181,7 +76,7 @@
 
 <div align="center">
 
-### 🤝 Let's Build Something Meaningful
+### 🤝 Let's Connect
 
 <p>
   <a href="mailto:chappabharathkumar8@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-chappabharathkumar8-00C853?style=for-the-badge&logo=gmail&logoColor=white" /></a>
