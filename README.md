@@ -18,31 +18,16 @@
 
 ### 🎯 What I Do
 
-<div align="center">
-
-| 🏢 **ServiceNow Platform** | 🤖 **Applied AI & ML** | ⚙️ **Backend & APIs** |
-| :---: | :---: | :---: |
-| Enterprise Workflow Automation & ITSM | Generative AI Agents & ML Pipelines | Scalable REST Microservices & Daemons |
-| `Flow Designer` &bull; `Script Includes` &bull; `ACLs` | `Gemini API` &bull; `Scikit-Learn` &bull; `XGBoost` | `FastAPI` &bull; `Flask` &bull; `Twilio Webhooks` |
-
-</div>
+- 🏢 **ServiceNow Development:** Automating enterprise workflows, catalog items, and Flow Designer orchestrations.
+- 🤖 **Applied AI & ML:** Integrating Generative AI agents, LLM prompts, and predictive machine learning pipelines.
+- ⚙️ **Backend Systems:** Building scalable REST APIs with Python (FastAPI/Flask) and relational database architectures.
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
-
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,mysql,postgres,docker,linux,git,github&perline=12" alt="Tech Stack" />
-</a>
-
-<br/><br/>
-
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-Platform_Development-00C853?style=for-the-badge&logo=servicenow&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
-[![Python](https://img.shields.io/badge/Python-FastAPI_|_ML_Pipelines-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-GenAI_Integration-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
-
 </div>
 
 ---
