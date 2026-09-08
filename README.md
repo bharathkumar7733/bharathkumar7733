@@ -181,15 +181,25 @@
 
 <div align="center">
 
-### 📫 Connect With Me
+### 🤝 Let's Build Something Meaningful
 
-[![Gmail](https://img.shields.io/badge/Email_Me-chappabharathkumar8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chappabharathkumar8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-bharathkumar7733.github.io-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
+<p>
+  <a href="mailto:chappabharathkumar8@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-chappabharathkumar8-00C853?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bharathkumar7733.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Explore_Site-00E676?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Cyberpunk Developer Desk" />
 
-<p><em>Turning complex enterprise workflows into simple, automated code.</em></p>
+<br/><br/>
+
+> 💡 *“Any repetitive task done twice by a human is a bug waiting to be automated.”*  
+> ⚡ *“Building software that runs silently, scales gracefully, and saves real human hours.”*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:004d26,100:000000&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
