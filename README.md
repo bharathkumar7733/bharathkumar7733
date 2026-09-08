@@ -1,137 +1,214 @@
-<h1 align="center">👋 Hi, I'm Bharath Kumar</h1>
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  BHARATH KUMAR                                                         │
+│  Software Developer • AI Builder • Backend & ServiceNow Enthusiast     │
+│                                                                        │
+│  Building practical software that turns everyday operational           │
+│  friction into simple, automated systems.                              │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Software+Engineer;AI%2FML+Builder;Full+Stack+Developer;Always+Shipping" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-ServiceNow%2C_AI_%26_Full_Stack-6d28d9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building an **AI-powered WhatsApp booking agent** for offline SMBs
-- 🛠️ **ServiceNow & AI-Integrated Builder** — designing intelligent automation workflows
-- 🌱 Learning **System Design**, **Distributed Systems**, and **LLM Ops**
-- 💡 I enjoy applying AI to real-world problems — automating workflows that run on manual effort
-- 🎯 Goal: Ship production-grade systems that solve real business problems
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-llama--3.1-6d28d9?style=for-the-badge&logo=meta&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
-
-### 📚 Core Skills
-- AI Agents & LLM Integration
-- Machine Learning & Model Deployment
-- Full Stack Web Development
-- Data Structures & Algorithms (Python & Java)
-- System Design & API Architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&border_color=1F2937" alt="Bharath's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=7C3AED&fire=7C3AED&currStreakNum=ffffff&stroke=1F2937" alt="GitHub Streak" />
+  <a href="https://bharathkumar7733.github.io/Portfolio/"><strong>Explore Live Portfolio →</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="mailto:chappabharathkumar8@gmail.com"><strong>Email</strong></a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/bharath_733/"><strong>LeetCode</strong></a>
 </p>
 
 ---
 
-## 🏆 Projects & Profiles
+### `$ whoami`
 
-<p align="center">
-  <a href="https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow">
-    <img src="https://img.shields.io/badge/-Employee_Lifecycle_Management-00C853?style=for-the-badge&logo=servicenow&logoColor=white" />
-  </a>
-  <a href="https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--">
-    <img src="https://img.shields.io/badge/-Smart_Library_Workflow-7928CA?style=for-the-badge&logo=servicenow&logoColor=white" />
-  </a>
-  <a href="https://github.com/bharathkumar7733/whatsapp_bot_turfbooking">
-    <img src="https://img.shields.io/badge/-WhatsApp_AI_Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Smart_Complaint_System_(In_Progress)-FF9800?style=for-the-badge&logo=servicenow&logoColor=white" />
-  </a>
-  <br/>
-  <a href="https://sqlquerygenerator.vercel.app">
-    <img src="https://img.shields.io/badge/-SQL_Query_Generator-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://loan-approval-prediction-kappa.vercel.app">
-    <img src="https://img.shields.io/badge/-Loan_Approval_ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  </a>
-  <a href="https://movie-recommender-nine-green.vercel.app">
-    <img src="https://img.shields.io/badge/-Movie_Recommender-E50914?style=for-the-badge&logo=themoviedatabase&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/bharathkumar7733">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</p>
+```bash
+$ bharath --profile
 
-> [!IMPORTANT]
-> ### 🛠️ Featured ServiceNow Projects
->
-> - 🚀 **[Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)** ![](https://img.shields.io/badge/ServiceNow-Platform-00C853?style=flat-square)  
->   **An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security tasks using Flow Designer.**
-> - 📚 **[Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)** ![](https://img.shields.io/badge/ServiceNow-Platform-7928CA?style=flat-square)  
->   **An automated university library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom reports.**
-> - ⚖️ **Smart Complaint Registration & Management System** ![](https://img.shields.io/badge/ServiceNow-In_Progress-FF9800?style=flat-square) *(In Progress — Adding Soon)*  
->   **An end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.**
+ROLE         Software Developer & Automation Builder
+FOCUS        ServiceNow Development × AI/ML Backends × Workflow Automation
+LOCATION     Andhra Pradesh, India
+EDUCATION    B.Tech Information Technology, Aditya College of Engineering & Tech (CGPA: 7.4)
+STATUS       Open to Internship & Full-Time Software / ServiceNow Roles
+```
+
+I'm an engineering student who enjoys building practical software rather than collecting superficial badges. My work sits at the intersection of:
+
+$$\text{ServiceNow Enterprise Workflows} \quad\times\quad \text{Python Backends} \quad\times\quad \text{Generative AI \& Machine Learning}$$
+
+I like taking a raw problem $\rightarrow$ mapping out the end-to-end workflow $\rightarrow$ writing clean backend services $\rightarrow$ connecting AI only where it delivers genuine value $\rightarrow$ shipping it to users.
 
 ---
 
-## 📫 Connect With Me
+### `$ what_i_build`
+
+| Domain | Focus & Implementation |
+| :--- | :--- |
+| 🏢 **ServiceNow** | Enterprise catalog workflows, Script Includes, Business Rules, Client Scripts, Flow Designer, and ACL policies. |
+| 🤖 **AI & Automation** | LLM-driven agents (Gemini API), conversational bots (Twilio), and scheduled background cron services. |
+| ⚙️ **Backend & APIs** | Robust REST microservices with FastAPI/Flask, relational database schema modeling, and API integrations. |
+| 🧠 **Machine Learning** | End-to-end classification pipelines, credit risk evaluation models, and recommendation systems with Scikit-Learn. |
+| 🌐 **Full Stack** | Clean responsive web interfaces (React, JavaScript) and mobile apps (Android Java). |
+
+---
+
+### `$ selected_builds`
+
+#### 01. WhatsApp Turf Booking Agent
+> **Conversational booking automation for sports venue businesses**
+
+* **Problem:** Venue owners waste hours fielding manual phone calls and WhatsApp messages to check slot availability, leading to double-bookings and lost revenue.
+* **Stack:** `Python` • `Twilio API` • `Flask` • `Webhooks` • `Scheduling`
+* **Engineering Highlights:**
+  * Implemented an automated chat state machine handling schedule queries and slot reservations over WhatsApp.
+  * Engineered conflict-prevention validation to prevent overlapping reservations.
+  * Integrated automated booking confirmation receipt dispatches via SMS and messaging webhooks.
+* **Source:** [bharathkumar7733/whatsapp_bot_turfbooking](https://github.com/bharathkumar7733/whatsapp_bot_turfbooking)
+
+---
+
+#### 02. Employee Lifecycle Management System
+> **Enterprise HR, IT, and Security onboarding & offboarding automation on ServiceNow**
+
+* **Problem:** Manual employee onboarding creates compliance gaps, delays equipment provisioning, and wastes days across HR, IT, and Facilities.
+* **Stack:** `ServiceNow Platform` • `Flow Designer` • `Script Includes` • `Business Rules` • `ACLs`
+* **Engineering Highlights:**
+  * Automated end-to-end request fulfillment parsing catalog item variables dynamically.
+  * Designed multi-stage approval routings to line managers and department heads.
+  * Orchestrated parallel fulfillment tasks for IT hardware provisioning, Security clearance, and HR verification.
+* **Source:** [bharathkumar7733/Employee-Lifecycle-Management-ServiceNow](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)
+
+---
+
+#### 03. Smart Library Request Workflow
+> **Automated academic library circulation, cataloging, and fine management**
+
+* **Problem:** Physical checkout books lead to tracking errors, untracked overdue returns, and manual ledger maintenance.
+* **Stack:** `ServiceNow Platform` • `Client Scripts` • `UI Policies` • `Reference Qualifiers` • `Flow Designer`
+* **Engineering Highlights:**
+  * Built dynamic catalog items with role-based visibility enforcing borrowing quotas.
+  * Configured automated notification engines triggering fine escalation alerts for overdue titles.
+  * Implemented Reference Qualifiers restricting book selection strictly to available inventory.
+* **Source:** [bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)
+
+---
+
+#### 04. AI SQL Query Generator
+> **Natural language to structured SQL translation platform using LLMs**
+
+* **Problem:** Non-technical business analysts often struggle to extract database metrics without waiting for database engineers.
+* **Stack:** `Python` • `FastAPI` • `Gemini API` • `Prompt Engineering` • `Vercel`
+* **Engineering Highlights:**
+  * Structured zero-shot and few-shot prompt architectures that safely convert user English queries to SQL queries.
+  * Added syntax sanitation to prevent destructive DDL operations.
+  * Built an intuitive interactive web interface providing instant code formatting and copy shortcuts.
+* **Demo & Source:** [Live Application](https://sqlquerygenerator.vercel.app) &bull; [GitHub Repo](https://github.com/bharathkumar7733/SQL-Query-Generator)
+
+---
+
+#### 05. Loan Approval Prediction Engine
+> **Machine learning classifier predicting credit application outcomes**
+
+* **Problem:** Financial institutions spend substantial man-hours performing preliminary applicant risk reviews.
+* **Stack:** `Python` • `Scikit-Learn` • `XGBoost` • `Pandas` • `Vercel`
+* **Engineering Highlights:**
+  * Cleaned and preprocessed applicant datasets, handling class imbalances and categorical feature encoding.
+  * Evaluated multiple classification models (Random Forest, Logistic Regression, XGBoost) to maximize ROC-AUC scores.
+  * Deployed a production inference endpoint delivering real-time approval probability decisions.
+* **Demo & Source:** [Live Application](https://loan-approval-prediction-kappa.vercel.app) &bull; [GitHub Repo](https://github.com/bharathkumar7733/loan_approval_prediction)
+
+---
+
+### `$ project_matrix`
+
+| Project | Domain | Architecture | Status |
+| :--- | :--- | :--- | :---: |
+| **WhatsApp Turf Booking Agent** | Automation / Bots | Python • Twilio • Flask | `🟢 Active` |
+| **Employee Lifecycle Automation** | Enterprise Platform | ServiceNow • Flow Designer | `🟢 Complete` |
+| **Smart Library Request Workflow** | Enterprise Platform | ServiceNow • Client Scripts | `🟢 Complete` |
+| **AI SQL Query Generator** | LLM / Developer Tool | Python • FastAPI • Gemini | `🟢 Live` |
+| **Loan Approval Prediction** | Machine Learning | Scikit-Learn • XGBoost | `🟢 Live` |
+| **Movie Recommender System** | Machine Learning | Cosine Similarity • Streamlit | `🟢 Live` |
+| **TournamentOS SaaS Platform** | Full Stack Web | React • TypeScript • Node.js | `🟡 In Progress` |
+
+---
+
+### `$ tech_arsenal`
+
+```bash
+# Core Programming Languages
+$ cat languages.txt
+Python • Java • JavaScript • SQL
+
+# ServiceNow & Enterprise Systems
+$ cat servicenow.env
+ServiceNow Administration • Client Scripts • Business Rules
+Script Includes • Flow Designer • UI Policies • ITSM Workflows
+
+# Backend, APIs & Systems
+$ cat backend_stack.json
+FastAPI • Flask • Node.js • Express • REST APIs • Linux / Bash • Webhooks
+
+# AI, ML & Data Pipelines
+$ cat ai_ml_toolkit.yaml
+Generative AI (Gemini) • Prompt Engineering • Scikit-Learn • Pandas • NumPy
+
+# Databases & Infrastructure
+$ cat infrastructure.conf
+MySQL • PostgreSQL • SQLite • Docker • Git • GitHub Actions • Vercel
+```
+
+---
+
+### `$ currently_learning`
+
+```text
+Backend Architecture & Microservices  ████████░░  80%
+ServiceNow Scripting & Integrations   ████████░░  80%
+System Design & Distributed Patterns  ██████░░░░  60%
+DSA Problem Solving (Python & Java)   ██████░░░░  60%
+AI Agents & LLM Orchestration         █████░░░░░  50%
+```
+
+---
+
+### `$ problem_solving`
+
+```text
+LeetCode  : 50+ Solved    (https://leetcode.com/u/bharath_733/)
+CodeChef  : 200+ Solved   (https://www.codechef.com/users/aimbot_733)
+HackerRank: 3★ Python • 4★ SQL (https://www.hackerrank.com/profile/bharatkumarchap1)
+```
+
+**Topic Progression:**  
+`Arrays` $\rightarrow$ `Hashing` $\rightarrow$ `Two Pointers` $\rightarrow$ `Sliding Window` $\rightarrow$ `Stacks & Queues` $\rightarrow$ `Binary Search & Trees`
+
+---
+
+### `$ engineering_notes`
+
+> *"Build first. Understand deeply. Automate relentlessly."*
+
+* I prioritize software that solves measurable real-world friction over tech demos built just to show off a buzzword.
+* If AI doesn't genuinely make a workflow faster, more reliable, or less error-prone, I don't force it in.
+* Code should be written for readability, maintainability, and clean separation of concerns.
+
+---
+
+### `$ github_activity`
 
 <p align="center">
-  <a href="https://github.com/bharathkumar7733">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:chappabharathkumar8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Bharath's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=0d1117&sideLabels=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&stroke=30363d" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</p>
+### `$ connect`
 
-<p align="center">
-  💻 Happy Coding!
-</p>
+```bash
+$ ping -c 1 bharath
+
+PORTFOLIO : https://bharathkumar7733.github.io/Portfolio/
+LINKEDIN  : https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/
+GITHUB    : https://github.com/bharathkumar7733
+EMAIL     : chappabharathkumar8@gmail.com
+LOCATION  : Kakinada, Andhra Pradesh, India
+```
