@@ -3,14 +3,14 @@
 # Chappa Bharath Kumar
 ### ServiceNow Developer &bull; Python Backend &bull; Applied AI
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-FF5252?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-50+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bharath_733/)
-[![Profile Views](https://komarev.com/ghpvc/?username=bharathkumar7733&label=VIEWS&color=00E676&style=for-the-badge)](https://github.com/bharathkumar7733)
+[![Profile Views](https://komarev.com/ghpvc/?username=bharathkumar7733&label=VIEWS&color=FF5252&style=for-the-badge)](https://github.com/bharathkumar7733)
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=ServiceNow+Developer;Python+Backend+Developer;AI+%26+Machine+Learning;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5252&center=true&vCenter=true&width=500&lines=ServiceNow+Developer;Python+Backend+Developer;AI+%26+Machine+Learning;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -53,8 +53,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=00E676&text_color=ffffff&icon_color=00E676&border_color=00E676" alt="Bharath's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=00E676&fire=00E676&currStreakNum=ffffff&stroke=00E676" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=FF5252&text_color=ffffff&icon_color=FF7A00&border_color=FF5252" alt="Bharath's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=FF5252&fire=FF7A00&currStreakNum=ffffff&stroke=FF5252" alt="GitHub Streak" height="165" />
 </div>
 
 ---
@@ -64,8 +64,8 @@
 ### 🤝 Let's Connect
 
 <p>
-  <a href="mailto:chappabharathkumar8@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-chappabharathkumar8-00C853?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://bharathkumar7733.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Explore_Site-00E676?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="mailto:chappabharathkumar8@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-chappabharathkumar8-FF5252?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bharathkumar7733.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Explore_Site-FF7A00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -79,6 +79,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:004d26,100:000000&height=100&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5252,50:ff7a00,100:000000&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
