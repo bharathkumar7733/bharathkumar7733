@@ -191,10 +191,10 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Cyberpunk Developer Desk" />
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="380" alt="Developer at work" />
 
 <p align="center">
-  <em>“Transforming complex operational friction into silent, scalable software.”</em>
+  <em>“Automating my workflows so I have more free time to stare at compiler errors.”</em>
 </p>
 
 <br/>
