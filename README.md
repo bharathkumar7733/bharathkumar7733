@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br/>
 
 ### 🎯 What I Do
 
@@ -22,7 +22,7 @@
 - 🤖 **Applied AI & ML:** Integrating Generative AI agents, LLM prompts, and predictive machine learning pipelines.
 - ⚙️ **Backend Systems:** Building scalable REST APIs with Python (FastAPI/Flask) and relational database architectures.
 
----
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,mysql,postgres,docker,linux,git,github&perline=12" alt="Tech Stack" />
 </div>
 
----
+<br/>
 
 ### 📜 Certifications
 
@@ -38,7 +38,7 @@
 - **Oracle** &bull; Java Certified Foundations Associate
 - **Cisco Networking Academy** &bull; Python Essentials 1
 
----
+<br/>
 
 ### 🧩 Problem Solving
 
@@ -48,7 +48,7 @@
   <a href="https://www.hackerrank.com/profile/bharatkumarchap1"><img src="https://img.shields.io/badge/HackerRank-3★_Python_|_4★_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </div>
 
----
+<br/>
 
 ### 📊 GitHub Activity
 
@@ -57,7 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=FF5252&fire=FF7A00&currStreakNum=ffffff&stroke=FF5252" alt="GitHub Streak" height="165" />
 </div>
 
----
+<br/>
 
 <div align="center">
 
