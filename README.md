@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Bharath Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Software+Engineer;AI%2FML+Builder;Full+Stack+Developer;Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Software+Engineer;AI%2FML+Builder;Full+Stack+Developer;Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-ServiceNow%2C_AI_%26_Full_Stack-6d28d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-ServiceNow%2C_AI_%26_Full_Stack-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" />
 </p>
 
@@ -45,7 +45,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-llama--3.1-6d28d9?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LPU-llama--3.1-F59E0B?style=for-the-badge&logo=meta&logoColor=white)
 
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,8 +67,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&border_color=1F2937" alt="Bharath's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=7C3AED&fire=7C3AED&currStreakNum=ffffff&stroke=1F2937" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=F59E0B&text_color=ffffff&icon_color=F59E0B&border_color=F59E0B" alt="Bharath's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=F59E0B&fire=F59E0B&currStreakNum=ffffff&stroke=F59E0B" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/-Employee_Lifecycle_Management-00C853?style=for-the-badge&logo=servicenow&logoColor=white" />
   </a>
   <a href="https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--">
-    <img src="https://img.shields.io/badge/-Smart_Library_Workflow-7928CA?style=for-the-badge&logo=servicenow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Smart_Library_Workflow-F59E0B?style=for-the-badge&logo=servicenow&logoColor=white" />
   </a>
   <a href="https://github.com/bharathkumar7733/whatsapp_bot_turfbooking">
     <img src="https://img.shields.io/badge/-WhatsApp_AI_Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -108,7 +108,7 @@
 >
 > - 🚀 **[Employee Lifecycle Management System](https://github.com/bharathkumar7733/Employee-Lifecycle-Management-ServiceNow)** ![](https://img.shields.io/badge/ServiceNow-Platform-00C853?style=flat-square)  
 >   **An automated employee onboarding and offboarding system built on ServiceNow that reads catalog variables, dynamically routes approvals to managers, and generates IT, HR, Facilities, and Security tasks using Flow Designer.**
-> - 📚 **[Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)** ![](https://img.shields.io/badge/ServiceNow-Platform-7928CA?style=flat-square)  
+> - 📚 **[Smart Library Request Workflow](https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--)** ![](https://img.shields.io/badge/ServiceNow-Platform-F59E0B?style=flat-square)  
 >   **An automated university library borrowing application on ServiceNow featuring Flow Designer, role-based access control (ACLs), UI Policies, Reference Qualifiers, and custom reports.**
 > - ⚖️ **Smart Complaint Registration & Management System** ![](https://img.shields.io/badge/ServiceNow-In_Progress-FF9800?style=flat-square) *(In Progress — Adding Soon)*  
 >   **An end-to-end platform to automate complaint lifecycle workflows using Client Scripts, UI/Data Policies, ACLs, and Flow Designer, with planned AI integration.**
