@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=560&lines=ServiceNow+Developer+%26+Automation+Builder;Python+Backend+%26+Applied+AI+Engineer;Certified+Oracle+Cloud+GenAI+Professional;Turning+Manual+Operations+into+Scalable+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=ServiceNow+Developer;Python+Backend+Developer;AI+%26+Machine+Learning;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -47,20 +47,20 @@
 
 ---
 
-### 🏆 Certifications & Problem Solving
+### 📜 Certifications
+
+- **Oracle Cloud Infrastructure** &bull; 2025 Certified Generative AI Professional
+- **Oracle** &bull; Java Certified Foundations Associate
+- **Cisco Networking Academy** &bull; Python Essentials 1
+
+---
+
+### 🧩 Problem Solving
 
 <div align="center">
-
-[![OCI GenAI Certified](https://img.shields.io/badge/Oracle_Cloud-2025_Generative_AI_Professional-00C853?style=for-the-badge&logo=oracle&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/#certifications)
-[![Oracle Java](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-00E676?style=for-the-badge&logo=oracle&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/#certifications)
-[![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/#certifications)
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-50+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bharath_733/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-200+_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aimbot_733)
-[![HackerRank](https://img.shields.io/badge/HackerRank-3★_Python_|_4★_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bharatkumarchap1)
-
+  <a href="https://leetcode.com/u/bharath_733/"><img src="https://img.shields.io/badge/LeetCode-50+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/aimbot_733"><img src="https://img.shields.io/badge/CodeChef-200+_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/bharatkumarchap1"><img src="https://img.shields.io/badge/HackerRank-3★_Python_|_4★_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </div>
 
 ---
