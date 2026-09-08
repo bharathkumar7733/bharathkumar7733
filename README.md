@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Chappa Bharath Kumar
+# Chappa Bharath Kumar
 ### ServiceNow Developer &bull; Python Backend &bull; Applied AI
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
@@ -193,10 +193,9 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Cyberpunk Developer Desk" />
 
-<br/><br/>
-
-> [!TIP]
-> *“Any repetitive task done twice by a human is a bug waiting to be automated.”*
+<p align="center">
+  <em>“Transforming complex operational friction into silent, scalable software.”</em>
+</p>
 
 <br/>
 
