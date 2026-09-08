@@ -191,7 +191,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="380" alt="Developer at work" />
+<img src="https://media.giphy.com/media/eIm624uf8JTQg06193/giphy.gif" width="420" alt="Matrix Code Stream" />
 
 <p align="center">
   <em>“Automating my workflows so I have more free time to stare at compiler errors.”</em>
