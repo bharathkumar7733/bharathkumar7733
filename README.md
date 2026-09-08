@@ -53,8 +53,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=00E676&text_color=ffffff&icon_color=00E676&border_color=00E676" alt="Bharath's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=00E676&fire=00E676&currStreakNum=ffffff&stroke=00E676" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=00E676&text_color=ffffff&icon_color=00E676&border_color=00E676" alt="Bharath's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=00E676&fire=00E676&currStreakNum=ffffff&stroke=00E676" alt="GitHub Streak" height="165" />
 </div>
 
 ---
