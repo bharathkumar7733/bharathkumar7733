@@ -3,14 +3,14 @@
 # ⚡ Chappa Bharath Kumar
 ### ServiceNow Developer &bull; Python Backend &bull; Applied AI
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chappa-bharath-kumar-573b6038b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-50+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bharath_733/)
-[![Profile Views](https://komarev.com/ghpvc/?username=bharathkumar7733&label=VIEWS&color=f59e0b&style=for-the-badge)](https://github.com/bharathkumar7733)
+[![Profile Views](https://komarev.com/ghpvc/?username=bharathkumar7733&label=VIEWS&color=00E676&style=for-the-badge)](https://github.com/bharathkumar7733)
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=550&lines=ServiceNow+Developer+%26+Automation+Builder;Python+Backend+%26+Applied+AI+Engineer;Certified+Oracle+Cloud+GenAI+Professional;Building+Software+That+Actually+Ships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=560&lines=ServiceNow+Developer+%26+Automation+Builder;Python+Backend+%26+Applied+AI+Engineer;Certified+Oracle+Cloud+GenAI+Professional;Turning+Manual+Operations+into+Scalable+Code" alt="Typing SVG" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <br/><br/>
 
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-Platform_Development-293E40?style=for-the-badge&logo=servicenow&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-Platform_Development-00C853?style=for-the-badge&logo=servicenow&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
 [![Python](https://img.shields.io/badge/Python-FastAPI_|_ML_Pipelines-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
 [![Gemini](https://img.shields.io/badge/Google_Gemini-GenAI_Integration-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/)
 
@@ -79,7 +79,7 @@
       <div align="center">
         <h3>📚 Smart Library Workflow</h3>
         <p><strong>University borrowing & circulation system on ServiceNow</strong></p>
-        <img src="https://img.shields.io/badge/ServiceNow-Client_Scripts-F59E0B?style=flat-square&logo=servicenow&logoColor=white" />
+        <img src="https://img.shields.io/badge/ServiceNow-Client_Scripts-00E676?style=flat-square&logo=servicenow&logoColor=white" />
         <p>Dynamic catalog checkout &bull; Automated overdue fine alerts &bull; ITSM forms</p>
         <a href="https://github.com/bharathkumar7733/Smart-Library-Workflow--_SERVICENOW_--">
           <img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -93,7 +93,7 @@
         <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="32" />
         <p>Gemini LLM prompt engine &bull; Schema sanitization &bull; Live web UI</p>
         <a href="https://sqlquerygenerator.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-F59E0B?style=for-the-badge&logoColor=black" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-00E676?style=for-the-badge&logoColor=black" />
         </a>
         &nbsp;
         <a href="https://github.com/bharathkumar7733/SQL-Query-Generator">
@@ -110,7 +110,7 @@
         <img src="https://skillicons.dev/icons?i=python,scikitlearn&theme=dark" height="32" />
         <p>XGBoost classifier &bull; Balanced applicant data &bull; Real-time inference</p>
         <a href="https://loan-approval-prediction-kappa.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-F59E0B?style=for-the-badge&logoColor=black" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-00E676?style=for-the-badge&logoColor=black" />
         </a>
         &nbsp;
         <a href="https://github.com/bharathkumar7733/loan_approval_prediction">
@@ -125,7 +125,7 @@
         <img src="https://skillicons.dev/icons?i=python,streamlit&theme=dark" height="32" />
         <p>Cosine distance vector ranking &bull; Interactive TMDB poster stream</p>
         <a href="https://movie-recommender-nine-green.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-F59E0B?style=for-the-badge&logoColor=black" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-00E676?style=for-the-badge&logoColor=black" />
         </a>
         &nbsp;
         <a href="https://github.com/bharathkumar7733/movie-recommender">
@@ -138,12 +138,26 @@
 
 ---
 
+### 🐍 Contribution Activity & Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharathkumar7733/bharathkumar7733/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bharathkumar7733/bharathkumar7733/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/bharathkumar7733/bharathkumar7733/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ### 🏆 Certifications & Problem Solving
 
 <div align="center">
 
-[![OCI GenAI Certified](https://img.shields.io/badge/Oracle_Cloud-2025_Generative_AI_Professional-F59E0B?style=for-the-badge&logo=oracle&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/#certifications)
-[![Oracle Java](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/#certifications)
+[![OCI GenAI Certified](https://img.shields.io/badge/Oracle_Cloud-2025_Generative_AI_Professional-00C853?style=for-the-badge&logo=oracle&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/#certifications)
+[![Oracle Java](https://img.shields.io/badge/Oracle-Java_Foundations_Associate-00E676?style=for-the-badge&logo=oracle&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/#certifications)
 [![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://bharathkumar7733.github.io/Portfolio/#certifications)
 
 <br/><br/>
@@ -159,8 +173,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=F59E0B&text_color=ffffff&icon_color=F59E0B&border_color=F59E0B" alt="Bharath's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=F59E0B&fire=F59E0B&currStreakNum=ffffff&stroke=F59E0B" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bharathkumar7733&show_icons=true&bg_color=000000&title_color=00E676&text_color=ffffff&icon_color=00E676&border_color=00E676" alt="Bharath's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumar7733&background=000000&sideLabels=ffffff&ring=00E676&fire=00E676&currStreakNum=ffffff&stroke=00E676" alt="GitHub Streak" />
 </div>
 
 ---
@@ -170,7 +184,7 @@
 ### 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Email_Me-chappabharathkumar8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chappabharathkumar8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-bharathkumar7733.github.io-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-bharathkumar7733.github.io-00E676?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bharathkumar7733.github.io/Portfolio/)
 
 <br/>
 
