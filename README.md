@@ -196,9 +196,7 @@
 <br/><br/>
 
 > [!TIP]
-> ### 💡 Engineering Philosophy
-> *“Any repetitive task done twice by a human is a bug waiting to be automated.”*  
-> *“Building software that runs silently, scales gracefully, and saves real human hours.”*
+> *“Any repetitive task done twice by a human is a bug waiting to be automated.”*
 
 <br/>
 
